@@ -11,9 +11,6 @@
 # Old lab materials
 /Lab Materials/
 
-# Template / example files
-README_EXAMPLE.md
-
 # Python
 __pycache__/
 *.py[cod]
