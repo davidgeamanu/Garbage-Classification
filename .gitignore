@@ -1,0 +1,47 @@
+# Dataset — download from Kaggle (see notebook "Getting the Dataset" section)
+/data/
+
+# Trained model weights
+/models/
+
+# Test script and its outputs
+/smoke_test.py
+/smoke_test_outputs/
+
+# Old lab materials
+/Lab Materials/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Kaggle credentials — never commit these
+kaggle.json
+
+# Downloaded dataset zip
+*.zip
